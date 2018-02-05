@@ -26,7 +26,7 @@ There are several possibilities as to what went wrong and why Regard3D did not w
 - The required data got lost in the various times that I used Exiftool or in the variations of the photographs.
 
 
-### Reflections
+### Reflection
 
 I recreated the statue of Joseph Brant as a three-dimensional model. This recreation is not a recreation of the man but of the statue. Bruno Latour and Adam Lowe discussed the concept of an original work of art, subsequent reproductions and whether or not the aura is transferable in their article “The migration of the aura or how to explore the original through its fac similes” (2010). I am curious as to how their ideas relate to a man who was once alive and the various depictions of him. Art cannot capture the aura of a human being; however, art can capture the legend of the person. Standing in front of the statue of Brant, I did not feel as if I was standing in front of the man. He stopped being a man after his death and he became a symbol. Brant symbolizes colonialism, assimilation, pride in one’s indigeneity, Canadian pride or enlightenment depending on who is analyzing his past and what their biases may be. The statue captures some of what he symbolizes but not who he was. Latour and Bruno argued that a work of art needs to be reproduced in order to continue to be relevant (2010). This statue ensures the continued remembrance of Brant by commemorating the man and propagating what he represents. 
  
