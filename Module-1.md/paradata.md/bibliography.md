@@ -14,7 +14,7 @@ Hiestand, R. (2015). <i>Regard3D</i>. N.A.: Roman Hiestand.
 
 Hutchinson, E. (2011). ‘“The Dress of His Nation” Romney’s Portrait of Joseph Brant’, <i>Winterthur Portfolio</i>, 45(2), pp. 209-227.
 
-Latour, Bruno, and A. Lowe. (2011). ‘The Migration of the Aura – or How to Explore the Original Through Its Facsimiles’, in Bartscherer, T. and Coover, R. (eds.) <i>Switching Codes. Thinking Through Digital Technology in the Humanities and the Arts</i>. Chicago: University of Chicago Press, pp. 275-297.
+Latour, B. and Lowe, A. (2011). ‘The Migration of the Aura – or How to Explore the Original Through Its Facsimiles’, in Bartscherer, T. and Coover, R. (eds.) <i>Switching Codes. Thinking Through Digital Technology in the Humanities and the Arts</i>. Chicago: University of Chicago Press, pp. 275-297.
 
 LULU Software. (2018) <i>Soda PDF</i>. N.A.: LULU Software. 
 
