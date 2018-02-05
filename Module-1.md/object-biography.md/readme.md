@@ -8,6 +8,7 @@ The statue of Brant is part of the Valiants Memorial, which was created by Marle
 
 The statue of Brant is a life-sized model of the man that was “as historically accurate and true to life as sculptor Marlene Hilton Moore could make” (Canadian War Museum, 2015). Moore sculpted the face and hands of the statue from clay and then dressed the cast models in duplicates of historical clothing. The models were then cast in bronze. John Moses – then Acting Curator of Easter Woodlands Ethnology at the Canadian Museum of History – assisted Moore with the historical accuracy of the statue of Brant by showing her historical items of clothing and by introducing her to a moccasin maker (Canadian War Museum, 2015). The final result is a rather life-like bronze statue of Brant that closely resembles his portraits. 
 
+
 ### Joseph Brant (1743-1807)
 
 Brant is a controversial historical figure and one of the most well-known Indigenous peoples of his time. John Sugden describes him as “a man with a foot in both Indian and white cultures” (1996). Brant is best known for his work in both secular and religious spheres, and in both European and Indigenous spheres. 
@@ -19,9 +20,9 @@ In 1775 to 1776, Brant travelled to London with Guy Johnson, where he represente
 After the war, Brant negotiated the Haldimand Proclamation of 1784, which granted the Iroquois a large tract of land on the Grand River (Hutchinson, 2011). This Proclamation was later the subject of controversy around Indigenous ownership of land when Brant sold approximately 350,000 acres of the land for income despite resistance for the British (Sugden, 1996). His sale of the land is seen as progressive in that it set a precedent for Indigenous ownership of land and what that constitutes, or it is seen as a bad decision because the Iroquois could have done more with the land they lost than they could with the little money that they earned from the sale. Although this was a controversial move in Brant’s part, it was not his most controversial legacy. 
 
 Brant is controversial because of his participation in both Indigenous and European cultures. He converted to Christianity early in his life and spent his later years translating religious texts into Mohawk. Although he was proud of his culture, he was seen as an assimilationist because he encouraged Indigenous peoples to convert to Christianity and because he supported British schooling (Sugden, 1996). Peter Farrugia perhaps best describes the controversies around Brant when he wrote:
-<indent>For commentators who seek to preserve traditional Aboriginal culture, Brant is seen either as someone who sold out his people without 
-<indent>compunction, or who was fooled by the practised tongues of the British colonizers. Those who see accommodation to the presence of 
-<indent>British as far-sighted, however, regard Brant’s policies as sagacious (2012, p. 131). 
+      For commentators who seek to preserve traditional Aboriginal culture, Brant is seen either as someone who sold out his people 
+      without compunction, or who was fooled by the practised tongues of the British colonizers. Those who see accommodation to the 
+      presence of British as far-sighted, however, regard Brant’s policies as sagacious (2012, p. 131). 
 One’s views on Brant are shaped by how one views Canadian history and the country’s relationship with Indigenous peoples. Brant’s acceptance of British people and their culture can been viewed to have positive, negative or both effects on the future of Indigenous peoples in North America.  Brant is an important figure in Canadian history, no matter how one views him, because of these controversies and how they helped shaped Canada. 
   
   
