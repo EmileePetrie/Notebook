@@ -35,7 +35,7 @@ Topic Models – a way to begin to reshape or remix your historical sensibilitie
 - i.e. Topic Model for John Adam’s mind based on his journals – remix made from attaching different instruments to different buckets
 
 ### A Non-Exhaustive List of Possible Ways to Mix History
-Sonification 
+<b> Sonification <b/>
 - WWI Diaries of Robert Lindsay mackay as Sound Cloud: https://programminghistorian.org/posts/sonic-word-clouds
 - Tutorial: https://programminghistorian.org/lessons/sonification
 
@@ -71,5 +71,7 @@ Maps
 
 
 Where is authority here?
+
 Where is aura?
+
 Who is the author?
