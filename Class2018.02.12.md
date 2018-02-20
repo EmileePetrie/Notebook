@@ -37,16 +37,20 @@ Plaster casts
 - - Change to getting the actual thing itself and not casts of itself
 - Cast Courts, Great Exhibition 1855
 - - Lots of casts, which are enjoyed by lots of ordinary folks 
+
 Industrialization of Academia
 - Museums shifting from plaster casts to having the actual objects themselves 
+
 Museo della Civilta’Romana
 - Musolini in power, Italy not in existence long
 - - create political identity
 - museum full of plaster casts – about the context of display, not just the cast
 - - idea that they can only have casts because other people have taken the original 
+
 Casts to Cast-offs
 - 1870s to 1970s casts are totally out of fashion and museums would get rid of their collections of casts
 - 1970s – environmental movements, acid rain – realization that for a lot of historical monuments, that the casts were they only records we had anymore
+
 Problems for museums
 - Lighting is deliberate in museums – prevent damage, prevent photography, etc. 
 - - Not equipped to deal with the fact that we can go into a museum and create a model
@@ -55,7 +59,9 @@ Problems for museums
 - Will they allow data to be downloaded?
 - Will they allow data to be remixed?
 - Will they charge a fee?
+
 What’s the position of Canadian Museums on the creation of models?
+
 Fear of misuse – reputation management and mismanagement 
 - If we provide data on artefacts, how can we control what happens to it?
 - Maori see messing with the digital version as messing with the physical version
