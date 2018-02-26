@@ -1,7 +1,7 @@
 
 ## Bibliography
 
-_Ramen_ (2017). Brother Lee Love [Digital 3D model]. Available at: https://sketchfab.com/models/15ca226dca784388ba3be121ef4d0a7f (Accessed: 21 February 2018)
+_ Ramen _ (2017). Brother Lee Love [Digital 3D model]. Available at: https://sketchfab.com/models/15ca226dca784388ba3be121ef4d0a7f (Accessed: 21 February 2018)
 
 Autodesk, Inc. (2018). Meshmixer 3.3. N.A.: Autodesk, Inc. 
 
