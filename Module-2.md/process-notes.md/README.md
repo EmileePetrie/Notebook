@@ -7,7 +7,6 @@
 ### Class on February 7
 - I thought about creating a Twitterbot for Joseph Brant but I decided against it. I thought that it might be problematic because of the racial issues that Indigenous peoples are facing, particularly having their voices taken from them. And because he is a controversial character who can be perceived differently in connection with different ideas, it would be difficult to create a voice for him. 
 
-
 ### Class on February 12
 - Can work off someone else’s model – acknowledge that you wish you’d done better and include that model’s biography into your writing
 - Can I mesh 3D models and 2D images? 
