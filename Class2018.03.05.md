@@ -6,9 +6,11 @@ Reverse gears from last class – it’s all about representation, graphics, etc
 
 Kingdom Come: Deliverance video game
 -	Othering of non-white mercenary armies, etc. 
+
 Programming is about forgetting – what stays in and what stays out 
 -	Retelling history is always about what you highlight – what is given weight and what is omitted entirely 
 -	What warrants representation?
+
 What does authenticity look like to Kingdom Come: Deliverance?
 -	Only interaction with women you can have is to rape them
 -	Can’t play as a woman because “authenticity”
@@ -27,16 +29,20 @@ What kind of past do audiences want to remember?
 -	Anyone who is different is clearly cast, depicted, etc. as “other”
 -	In line with modern Czech Republic 
 - -	Represent elements historical Czech to make an argument about current Czech Republic
+
 Questions of representation to think about when you play a ‘historical’ game: 
 -	Who is the villain?
 -	Who is the hero?
 -	Who matters to the story?
 -	Who is left out?
+
 Interrogate the silences – the omittances 
+
 Questions of mechanics to think about
 -	Are these actions reasonable in the context of this era?
 -	Are these actions meaningful within the context of the game (do they carry consequences)?
 - -	Mechanics matter in what they permit the player to do – actions must have consequences
+
 Counterfactual - relating to or expressing what has not happened or is not the case 
 Games are just a system of interactions, and those interactions matter to the player and to the game – figure out the meaning of those interactions
 
