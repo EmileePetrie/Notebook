@@ -19,16 +19,16 @@ You are designing a museum. How do you depict Joseph Brant?
 -	What do you know about him before? What ideas are you trying to challenge?
 -	End with a depiction of how you represent him.
 
-### Processing my thoughts through notes
-•	How does a person compete with the heavy-handed paternalism of colonial settlers who thought Indigenous peoples were savages and less than themselves?
-•	Do you focus on his accomplishments and failure? Do you also talk about his childhood and how he got there? 
-•	What do you know about Joseph Brant? What do you want to focus your research on?
-•	Decide to omit a lot about Molly Brant, his sister, because she is a complex character that could overrun a summary of his life. 
-•	Was leasing land to non-Indigenous settlers a good thing or a bad thing?
-•	How do you represent him? Ambiguous figure? Traitor? Hero? Etc.?
-•	How much do you focus on the events that happened during Brant’s life time? E.g. collapse of western confederacy
-•	Is trying worth the effort of remembering or is it a failure?
-•	Should Isaac’s death be omitted or included?
+### Question ideas
+- How does a person compete with the heavy-handed paternalism of colonial settlers who thought Indigenous peoples were savages and less -than themselves?
+-	Do you focus on his accomplishments and failure? Do you also talk about his childhood and how he got there? 
+-	What do you know about Joseph Brant? What do you want to focus your research on?
+-	Decide to omit a lot about Molly Brant, his sister, because she is a complex character that could overrun a summary of his life. 
+-	Was leasing land to non-Indigenous settlers a good thing or a bad thing?
+-	How do you represent him? Ambiguous figure? Traitor? Hero? Etc.?
+-	How much do you focus on the events that happened during Brant’s life time? E.g. collapse of western confederacy
+-	Is trying worth the effort of remembering or is it a failure?
+-	Should Isaac’s death be omitted or included?
 
 ### How did I create the Twine game “Who is he? Joseph Brant / Thayendanegea”?
 
