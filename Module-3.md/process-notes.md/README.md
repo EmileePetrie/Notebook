@@ -3,20 +3,21 @@
 
 ### Critical Making in Digital History – March 12, 2018
 Think about making a bot that compiles a bunch of historical facts about Brant to create a new narrative and see what comes up
-•	Present facts about his life in tweet format
-o	E.g. happy Mother’s Day, [his mom’s name]
-o	E.g. met with [someone] today! The meeting went …
-o	E.g. when [artist] paints your portrait… [link picture of his portrait]
+
+Present facts about his life in tweet format
+-	E.g. happy Mother’s Day, [his mom’s name]
+-	E.g. met with [someone] today! The meeting went...
+-	E.g. when [artist] paints your portrait… [link picture of his portrait]
 
 ### Critical Making in Digital History – March 14, 2018
 You are designing a museum. How do you depict Joseph Brant?
-•	Do you identify him as Thayendanegea or Joseph Brant? Why?
-•	What do you want to say about the community he grew up in?
-•	How do you contextualize Brant and his life?
-•	What are his greatest accomplishments?
-•	Do represent him as a traitor or a sympathizer or as an ambiguous figure?
-•	What do you know about him before? What ideas are you trying to challenge?
-•	End with a depiction of how you represent him.
+-	Do you identify him as Thayendanegea or Joseph Brant? Why?
+-	What do you want to say about the community he grew up in?
+-	How do you contextualize Brant and his life?
+-	What are his greatest accomplishments?
+-	Do represent him as a traitor or a sympathizer or as an ambiguous figure?
+-	What do you know about him before? What ideas are you trying to challenge?
+-	End with a depiction of how you represent him.
 
 ### Processing my thoughts through notes
 •	How does a person compete with the heavy-handed paternalism of colonial settlers who thought Indigenous peoples were savages and less than themselves?
