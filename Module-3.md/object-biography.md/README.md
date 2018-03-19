@@ -1,21 +1,21 @@
 
-## Object Biography
+# Object Biography
 
-### Joseph Brant
+## Joseph Brant
 https://github.com/EmileePetrie/Notebook/tree/master/Module-1.md/object-biography.md
 
-### Bishop Brant
+## Bishop Brant
 https://github.com/EmileePetrie/Notebook/tree/master/Module-2.md/object-biography.md
 
-### Who is he? Joseph Brant / Thayendanegea
+## Who is he? Joseph Brant / Thayendanegea
 This textual game explores different interpretations of Brant and the decisions that led to those interpretations. Brant is a controversial historical figure. Some people see him an assimilationist, while others see him as a forward thinker. He supported the British in the American Revolution. He was an Anglican who translated sermons into the Mohawk language. He led the Six Nations to a settlement on Grand River, for which he had negotiated with General Haldimand. His actions have been interpreted in a variety of ways depending on how one views the current political climate in Canada between Indigenous peoples and the government. This game looks at how one might understand Brant as the controversial historical figure described in Module 1 and as "Bishop Brant", who was greatly influenced by British culture and religion, described in Module 2. 
 
 “Who is he? Joseph Brant / Thayendanegea” is meant to criticize the choices one makes when interpreting history. The study and representation of history is about choosing what to omit and what to include in the depiction of history. This game allows players to decide what they wish to emphasize and omit in their depiction of Brant and how they wish to interpret his actions. The purpose of this game is not to suggest that one of these interpretations is more correct than another, but to suggest that history is a personal experience. One understands history through the context of one’s own knowledge and one’s experiences. 
 
-### Biographies in "Who is he? Joseph Brant / Thayendanegea"
+## Biographies in "Who is he? Joseph Brant / Thayendanegea"
 
 
-#### BRANT – CHURCH EMPHASIS – RELATIONSHIP WITH BRITAIN IS BAD
+### BRANT – CHURCH EMPHASIS – RELATIONSHIP WITH BRITAIN IS BAD
 
 Joseph Brant (Thayendanegea): 1743-1807
 
@@ -32,7 +32,7 @@ After the war, Brant took on a more diplomatic role. In keeping with their promi
 Brant influenced the current relationship between Indigenous peoples and the Crown. He saw the relationship as economically and politically beneficial, but, at the end of his life, he acknowledged that the British had created barriers to the prosperity of the Six Nations. Although he promoted and fostered the relationship between the Six Nations and the government, he fought for Indigenous sovereignty. 
 
 
-#### BRANT – CHURCH EMPHASIS – RELATIONSHIP WITH BRITAIN IS GOOD
+### BRANT – CHURCH EMPHASIS – RELATIONSHIP WITH BRITAIN IS GOOD
 
 Joseph Brant (Thayendanegea): 1743-1807
 
@@ -47,7 +47,7 @@ With the outbreak of the American Revolution, Brant advocated for the Six Nation
 After the war, Brant took on a more diplomatic role. In keeping with their promise, the British granted Brant a tract of land, which they bought from the Mississauga. He settled over 1,800 Six Nations people along the Grand River. This tract of land was too large for the Six Nations to cultivate so Brant leased land to the settlers who had fought alongside him. However, the Haldimand Proclamation, which granted the Six Nations the Grand River tract, did not specify how they held the land. Therefore, they did not hold the legal title to the land. The legality of Brant’s land leases was called in to question and their ambiguous legality affected the income that his leases brought in. Brant continued to negotiate with the British for the deed to Grand River and the right to sell the land until he fell sick and died in 1807.
 
 
-#### THAYENDANEGEA – WARRIOR 
+### THAYENDANEGEA – WARRIOR 
 
 Thayendanegea (Joseph Brant): 1743-1807
 
@@ -63,7 +63,7 @@ After the war, the Mohawks discovered that there was little to return to in Moha
 Thayendanegea traveled to Quebec to remind General Haldimand of his previous promise of land. Thayendanegea scouted out the land and then Haldimand had a large tract of land on the Grand River bought from the Mississauga. Thayendanegea led over 1,800 people to settle on his tract of land. Although the war was over, Thayendanegea’s fight was not and he spent the latter part of his life trying to negotiate the sovereignty of his people with the paternalistic British empire. He fought for the deed to the Grand River and the legal right to sell the land until he got sick and died in 1807. 
 
 
-#### BRANT – WARRIOR 
+### BRANT – WARRIOR 
 
 Joseph Brant (Thayendanegea): 1743-1807
 
@@ -78,7 +78,7 @@ After the war, the Mohawks discovered that there was little to return to in Moha
 Brant traveled to Quebec to remind General Haldimand of his previous promise of land. Brant scouted out the land and then Haldimand had a large tract of land on the Grand River bought from the Mississauga. Brant led over 1,800 people to settle on his tract of land. Although the war was over, Brant’s fight was not. He spent the latter part of his life trying to negotiate the independence of his people with the imperial government. He fought for the deed to the Grand River and the legal right to sell the land until he got sick and died in 1807. 
 
 
-#### THAYENDANEGEA – STATESMAN – INTENT – CONCEDE TO BRITISH
+### THAYENDANEGEA – STATESMAN – INTENT – CONCEDE TO BRITISH
 
 Thayendanegea (Joseph Brant): 1743-1807
 
@@ -101,7 +101,7 @@ The second attempt to settle the legality of Thayendanegea’s sales was a negot
 Despite Thayendanegea’s hopes for the sales, the Haudenosaunee became more dependent on the British afterward. The sales did not generate the proceeds that were expected. The legal status of the land was still ambiguous because the Haudenosaunee still did not have a deed for the Grand River and the Royal Proclamation of 1963 still existed. Only one of the six buyers made any payments. Thayendanegea had given away his people’s sovereignty when he accepted Russell’s offer and agreed that the Haudenosaunee did not have the right to sell their land. Thayendanegea fought for the deed to the Grand River until he got sick and died in 1807. 
 
 
-#### THAYENDANEGEA – STATESMAN – INTENT – VICTORY OVER BRITISH
+### THAYENDANEGEA – STATESMAN – INTENT – VICTORY OVER BRITISH
 
 Thayendanegea (Joseph Brant): 1743-1807
 
@@ -122,7 +122,7 @@ Peter Russell, a temporary Lieutenant-Governor of Upper Canada and Thayendanegea
 Thayendanegea fought to obtain the deed to the Grand River until he got sick and died in 1807.  
 
 
-#### THAYENDANEGEA – STATESMAN – OUTCOME 
+### THAYENDANEGEA – STATESMAN – OUTCOME 
 
 Thayendanegea (Joseph Brant): 1743-1807
 
@@ -145,7 +145,7 @@ The second attempt to settle the legality of Thayendanegea’s sales was a negot
 Despite Thayendanegea’s hopes, the sales did not generate the proceeds that were expected. The legal status of the land was still ambiguous because the Haudenosaunee still did not have a deed for the Grand River and the Royal Proclamation of 1963 still existed. Only one of the six buyers made any payments. Thayendanegea had given away his people’s sovereignty when he accepted Russell’s offer and agreed that the Haudenosaunee did not have the right to sell their land. Thayendanegea continued fighting for the deed to the Grand River until he got sick and died in 1807. 
 
 
-#### BRANT – STATESMAN – INTENT – CONCEDE TO BRITISH
+### BRANT – STATESMAN – INTENT – CONCEDE TO BRITISH
 
 Joseph Brant (Thayendanegea): 1743-1807
 
@@ -166,7 +166,7 @@ The second attempt to settle the legality of Brant’s sales was a negotiation b
 Despite Brant’s hopes for the sales, the Haudenosaunee became more dependent on the British afterward. The sales did not generate the proceeds that were expected. The legal status of the land was still ambiguous because the Haudenosaunee still did not have a deed for the Grand River and the Royal Proclamation of 1963 still existed. Only one of the six buyers made any payments. Brant had given away his people’s sovereignty when he accepted Russell’s offer and agreed that the Haudenosaunee did not have the right to sell their land. Brant fought for the deed to the Grand River until he got sick and died in 1807. 
 
 
-#### BRANT – STATESMAN – INTENT – VICTORY OVER BRITISH
+### BRANT – STATESMAN – INTENT – VICTORY OVER BRITISH
 
 Joseph Brant (Thayendanegea): 1743-1807
 
