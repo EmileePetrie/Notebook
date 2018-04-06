@@ -1,7 +1,7 @@
 
 ## Neggen and Thayendanegea – On HP Reveal 
 
-To follow my (EPtr) private campaign on HP reveal, click the following link: http://auras.ma/s/O9BwD. 
+**To follow my (EPtr) private campaign on HP reveal, click the following link: http://auras.ma/s/O9BwD.**
 
 **Start**  in Isabel Thompson Kelsay’s Joseph Brant (E99. I7 B784) at page title page (which states the title, author and printing press). 
 
