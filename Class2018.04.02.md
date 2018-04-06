@@ -55,7 +55,7 @@ My name is Thayendanegea. I died over two hundred years ago, but I am still reme
 
 I do not want to present myself as good or bad. I am human and make mistakes. I had a lasting impact on the world and whether or not that is good or bad, that is for you to decide. 
 
--Intent. Outcome. Warrior. Church. Statesman. British. 
--Triggers: grass, chalkboard, light switch, pencil, etc. 
+- Intent. Outcome. Warrior. Church. Statesman. British. 
+- Triggers: grass, chalkboard, light switch, pencil, etc. 
 
 
