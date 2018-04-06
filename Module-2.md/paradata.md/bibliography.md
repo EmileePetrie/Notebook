@@ -7,7 +7,7 @@ Autodesk, Inc. (2018). Meshmixer 3.3. N.A.: Autodesk, Inc.
 
 Cignoni, P. and Ranzuglia, G. (2016). Meshlab. N.A.: Visual Computing Lab.
 
-eptr (2017). Thayendanegea (Joseph Brant)[Digital 3D model]. Available at: https://sketchfab.com/models/9b017d0bf393415994656ea590e0eb83 (Accessed: 21 February 2018)
+eptr (2018). Thayendanegea (Joseph Brant)[Digital 3D model]. Available at: https://sketchfab.com/models/9b017d0bf393415994656ea590e0eb83 (Accessed: 21 February 2018)
 
 Heal, Bridget (2017). “Introduction: Art and Religious Reform in Early Modern Europe,” Art History, 40 (2). Available at: http://onlinelibrary.wiley.com.proxy.library.carleton.ca/doi/10.1111/1467-8365.12305/epdf (Accessed: 24 February 2018).
 
