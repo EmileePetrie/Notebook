@@ -28,6 +28,9 @@ Aris – very complicated editor that lets you have players, etc.
 -	Rob MacDougall, University of Western Ontario – “The Past: The Killer App”
 
 
+
+
+
 What gets augmented? Privileging the visual
 The thing that ruins augmented reality – Breaks in Presence – that which knocks you out of the experience
 -	What can ruin a conventional AR experience?
