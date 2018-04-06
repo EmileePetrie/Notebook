@@ -45,23 +45,17 @@ The ghost of Brant is unsettled by how ambiguous legacy. He brings his ideas int
 
 Ideas
 -	Land
---Set a precedent for land ownership
---Context of multicultural community 
---Realizes that has damaging legacy now
---Good intentions
--	Bible
---God is a belief, not an assimilation 
---Module 2
--	Britain
---Siding in the American Revolution – Americans were British originally 
+-	Bible (God is a belief, not necessarily assimilation)
+-	Britain (Siding in the American Revolution – Americans were British originally) 
 -	Name is Thayendanegea
 -	Portraits
 -	Realize at end the paternalistic attitude of Britain – fought against it
 
 My name is Thayendanegea. I died over two hundred years ago, but I am still remembered today. However, my legacy has been taken out of context. Sometimes I have been seen as an assimilationist or traitor. I want to take some time to contextualize myself.  
+
 I do not want to present myself as good or bad. I am human and make mistakes. I had a lasting impact on the world and whether or not that is good or bad, that is for you to decide. 
 
-Intent. Outcome. Warrior. Church. Statesman. British. 
-Triggers: grass, chalkboard, light switch, pencil, etc. 
+-Intent. Outcome. Warrior. Church. Statesman. British. 
+-Triggers: grass, chalkboard, light switch, pencil, etc. 
 
 
