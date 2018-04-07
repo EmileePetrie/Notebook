@@ -64,8 +64,9 @@ _Go to page 12 of Valerie Greenfield’s The Portraits of Thayendanegea, Joseph 
 
 ### 6
 
-** Greenfield, V. (1993). _ The Portraits of Thayendanegea, Joseph Brant. _ Burlington: Burlington Cultural Centre. (E99. I7 B786) **
-** Page 12 **
+**Greenfield, V. (1993). _The Portraits of Thayendanegea, Joseph Brant._ Burlington: Burlington Cultural Centre. (E99. I7 B786)
+Page 12**
+
 Here is a portrait of Thayendanegea, painted by George Romney in 1776. It is important to remember that Thayendanegea was Mohawk. He has been whitewashed in some representations of him. There has also been some speculation as to whether or not he was half white; he was not. 
 _ Flip to page 28 in this book. _
 
